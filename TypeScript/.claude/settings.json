@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /home/val9000/holbertonschool-web_react/TypeScript/task_2/js /home/val9000/holbertonschool-web_react/TypeScript/task_2/dist)",
+      "Bash(npm run *)",
+      "Bash(node dist/bundle.js)",
+      "Bash(npx tsc *)",
+      "Bash(git status *)"
+    ],
+    "additionalDirectories": [
+      "/home/val9000/holbertonschool-web_react/TypeScript/task_2"
+    ]
+  }
+}
